@@ -2,3 +2,5 @@ Tal Hadar 1
 Tal Hadar 2
 Tal Hadar 3
 Tal Hadar 4
+Tal Hadar 5
+Tal Hadar 6
